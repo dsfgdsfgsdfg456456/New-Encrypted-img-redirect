@@ -2,7 +2,7 @@
 const encryptedImageData = "aapka-encrypted-base64-image-data-yahan-paste-karen";
 
 // Password for decryption
-const password = "your-password";
+const password = "www1h";
 
 // Function to decrypt the image
 function decryptImage(encryptedImage, password) {
