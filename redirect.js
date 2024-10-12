@@ -1,8 +1,8 @@
 // List of URLs
 const urls = [
-    "https://example1.com",
-    "https://example2.com",
-    "https://example3.com"
+    "https://alcashzone.com",
+    "https://alcashedu.com",
+    "https://youtube.com/@alcashzone"
 ];
 
 // Redirect to a random URL
